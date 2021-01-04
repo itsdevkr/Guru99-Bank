@@ -9,8 +9,8 @@
   <test name="Test">
   <parameter name="browser" value="chrome" />
     <classes>
-<!--       <class name="com.iguruBank.testCases.TC_LoginTest_001"/> -->
-      <class name="com.iguruBank.testCases.TC_LoginDDT_002"/>
+       <class name="com.iguruBank.testCases.TC_LoginTest_001"/>
+      <!-- <class name="com.iguruBank.testCases.TC_LoginDDT_002"/> -->
       <!-- <class name="com.iguruBank.testCases.BaseClass"/>-->
     </classes>
   </test> <!-- Test -->

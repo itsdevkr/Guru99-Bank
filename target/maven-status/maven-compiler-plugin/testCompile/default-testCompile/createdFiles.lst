@@ -1,0 +1,7 @@
+com\iguruBank\testCases\BaseClass.class
+com\iguruBank\utilities\XLUtils.class
+com\iguruBank\utilities\ReadConfig.class
+com\iguruBank\pageObjects\LoginPage.class
+com\iguruBank\utilities\Reporting.class
+com\iguruBank\testCases\TC_LoginDDT_002.class
+com\iguruBank\testCases\TC_LoginTest_001.class
