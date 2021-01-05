@@ -6,7 +6,7 @@
     <classes>
       <class name="com.iguruBank.testCases.TC_LoginDDT_002">
         <methods>
-          <include name="loginDDT" invocation-numbers="0"/>
+          <include name="loginDDT" invocation-numbers="1"/>
           <include name="setup"/>
           <include name="tearDown"/>
         </methods>
